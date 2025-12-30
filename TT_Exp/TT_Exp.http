@@ -1,0 +1,6 @@
+@TT_Exp_HostAddress = http://localhost:5281
+
+GET {{TT_Exp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
